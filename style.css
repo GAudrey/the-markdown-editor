@@ -1,0 +1,19 @@
+header{
+    text-align: center;
+}
+
+main{
+    display: flex;
+}
+
+#markdown{
+    width: 50vw;
+}
+#text-markdown{
+    width: 100%;
+    height: 25vh;
+}
+
+#preview{
+    width: 50vw;
+}
