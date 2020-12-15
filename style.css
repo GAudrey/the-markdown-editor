@@ -16,7 +16,8 @@ main{
 
 #text-markdown{
     width: 90%;
-    height: 25vh;
+    height: 75vh;
+    resize: none;
 }
 
 #preview{
@@ -25,6 +26,8 @@ main{
 
 #preview-area{
     width: 90%;
+    height: 75vh;
     overflow-wrap: break-word;
     overflow: auto;
+    border: 1px solid black;
 }
