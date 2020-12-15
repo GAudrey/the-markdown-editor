@@ -9,9 +9,14 @@ main{
 #markdown{
     width: 50vw;
 }
+
 #text-markdown{
-    width: 100%;
+    width: 90%;
     height: 25vh;
+}
+
+#preview{
+    width: 50vw;
 }
 
 #preview{
